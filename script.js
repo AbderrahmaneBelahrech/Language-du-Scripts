@@ -72,9 +72,6 @@ const validateInputs = () => {
     } else {
         setSuccess(password2);
     }
+
   
 }
-function redirectToIndex() {
-    // validateInputs();
-    window.location.href = "/index.html";
-  }

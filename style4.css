@@ -8,7 +8,7 @@
     scroll-behavior: smooth; 
 }
 nav{
-    background-color: rgb(255, 250, 250);   
+    background-color: rgb(255, 255, 255);   
     display: flex;
     justify-content: right;
     align-items: center;
